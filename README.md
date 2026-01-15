@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-21-orange)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![JDBC](https://img.shields.io/badge/JDBC-API-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Student Management System (Java + JDBC + MySQL)
 
 A **Java Console-based Student Management System** built using **JDBC** and **MySQL**.  
