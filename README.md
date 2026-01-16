@@ -6,7 +6,7 @@
 # Student Management System (Java + JDBC + MySQL)
 
 A **Java Console-based Student Management System** built using **JDBC** and **MySQL**.  
-This project demonstrates CRUD operations, admin authentication, soft delete, restore functionality, filtering, and secure database handling using environment variables.
+This Project Demonstrates CRUD Operations, admin authentication, soft delete, restore functionality, filtering, and secure database handling using environment variables.
 
 ---
 
