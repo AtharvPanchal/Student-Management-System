@@ -95,19 +95,19 @@ CREATE TABLE students (
 
 # 🔐 Environment Variables Setup
 
-For security reasons, database credentials are not hardcoded.
+- For security reasons, database credentials are not hardcoded.
 
-Set the following environment variables before running the project:
+- Set the following environment variables before running the project:
 
-DB_USER=root
-DB_PASSWORD=your_mysql_password
+  DB_USER=root
+  DB_PASSWORD=your_mysql_password
 
-On Windows (PowerShell)
-setx DB_USER root
-setx DB_PASSWORD your_mysql_password
+  On Windows (PowerShell)
+  setx DB_USER root
+  setx DB_PASSWORD your_mysql_password
 
 
-After setting environment variables, restart IntelliJ IDEA.
+- After setting environment variables, restart IntelliJ IDEA.
 
 
 
@@ -151,36 +151,25 @@ Password: admin123
 
 # 🧠 Key Concepts Demonstrated
 
-JDBC connectivity with MySQL
-
-PreparedStatement usage
-
-Environment variable based configuration
-
-Soft delete using boolean flag
-
-Restore functionality
-
-Separation of concerns (model / service / util)
-
-Console-based menu-driven application
-
-Git & GitHub workflow
+- JDBC connectivity with MySQL
+- PreparedStatement usage
+- Environment variable based configuration
+- Soft delete using boolean flag
+- Restore functionality
+- Separation of concerns (model / service / util)
+- Console-based menu-driven application
+- Git & GitHub workflow
 
 ---
 
 
 # 🚀 Future Enhancements
 
-Password hashing (BCrypt)
-
-Role-based access control
-
-Pagination for large datasets
-
-Spring Boot REST API version
-
-Frontend integration (Web / JavaFX)
+- Password hashing (BCrypt)
+- Role-based access control
+- Pagination for large datasets
+- Spring Boot REST API version
+- Frontend integration (Web / JavaFX)
 
 
 ---
