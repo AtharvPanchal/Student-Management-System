@@ -39,23 +39,23 @@ This Project Demonstrates CRUD Operations, admin authentication, soft delete, re
 ---
 
 # 📁 Project Structure
-
-StudentManagementSystem/ <br>
+```text
+StudentManagementSystem/ 
 │
-├── src/ <br>
-│ ├── model/ <br>
-│ │ └── Student.java <br>
-│ ├── service/ <br>
-│ │ ├── AdminService.java <br>
-│ │ └── StudentService.java <br>
-│ ├── util/ <br>
-│ │ └── DBConnection.java <br>
-│ └── Main.java <br>
-│      <br>
-├── .gitignore <br>
+├── src/ 
+│ ├── model/ 
+│ │ └── Student.java 
+│ ├── service/ 
+│ │ ├── AdminService.java 
+│ │ └── StudentService.java 
+│ ├── util/ 
+│ │ └── DBConnection.java 
+│ └── Main.java 
+│      
+├── .gitignore 
 └── README.md
 
-
+```
 
 ---
 
